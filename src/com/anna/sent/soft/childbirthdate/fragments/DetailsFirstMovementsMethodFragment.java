@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import android.widget.CheckBox;
 import android.widget.DatePicker;
 
-import com.anna.sent.soft.childbirthdate.R;
+import com.anna.sent.soft.childbirthdate.pro.R;
 import com.anna.sent.soft.childbirthdate.utils.DateUtils;
 
 public class DetailsFirstMovementsMethodFragment extends DetailsFragment

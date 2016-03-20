@@ -1,6 +1,6 @@
 package com.anna.sent.soft.childbirthdate.widget;
 
-import com.anna.sent.soft.childbirthdate.R;
+import com.anna.sent.soft.childbirthdate.pro.R;
 
 public final class MyPregnancyWidgetConfigureSimple extends
 		MyPregnancyWidgetConfigure {

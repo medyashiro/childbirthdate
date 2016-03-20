@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.anna.sent.soft.childbirthdate.R;
+import com.anna.sent.soft.childbirthdate.pro.R;
 import com.anna.sent.soft.childbirthdate.shared.Shared;
 import com.anna.sent.soft.strategy.statesaver.StateSaverFragment;
 

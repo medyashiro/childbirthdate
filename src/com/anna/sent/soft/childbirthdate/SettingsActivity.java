@@ -11,6 +11,7 @@ import android.preference.PreferenceCategory;
 import android.util.Log;
 import android.view.MenuItem;
 
+import com.anna.sent.soft.childbirthdate.pro.R;
 import com.anna.sent.soft.childbirthdate.shared.Settings;
 import com.anna.sent.soft.childbirthdate.sicklist.SickListAgePreference;
 import com.anna.sent.soft.childbirthdate.sicklist.SickListDaysPreference;

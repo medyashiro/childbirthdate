@@ -17,10 +17,10 @@ import android.view.ViewGroup.LayoutParams;
 import android.widget.Button;
 import android.widget.ListView;
 
-import com.anna.sent.soft.childbirthdate.R;
 import com.anna.sent.soft.childbirthdate.age.ISetting;
 import com.anna.sent.soft.childbirthdate.age.LocalizableObject;
 import com.anna.sent.soft.childbirthdate.age.SettingsParser;
+import com.anna.sent.soft.childbirthdate.pro.R;
 
 public abstract class MoveableItemsPreference extends DialogPreference
 		implements OnClickListener {

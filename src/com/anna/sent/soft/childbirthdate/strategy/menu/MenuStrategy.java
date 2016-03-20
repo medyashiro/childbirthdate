@@ -6,9 +6,9 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.anna.sent.soft.childbirthdate.HelpActivity;
-import com.anna.sent.soft.childbirthdate.R;
 import com.anna.sent.soft.childbirthdate.SettingsActivity;
 import com.anna.sent.soft.childbirthdate.actions.EmailDataActionActivity;
+import com.anna.sent.soft.childbirthdate.pro.R;
 import com.anna.sent.soft.strategy.BaseStrategy;
 
 public class MenuStrategy extends BaseStrategy {

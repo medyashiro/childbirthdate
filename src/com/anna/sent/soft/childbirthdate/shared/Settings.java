@@ -6,12 +6,12 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 
-import com.anna.sent.soft.childbirthdate.R;
 import com.anna.sent.soft.childbirthdate.age.Age;
 import com.anna.sent.soft.childbirthdate.age.Days;
 import com.anna.sent.soft.childbirthdate.age.ISetting;
 import com.anna.sent.soft.childbirthdate.age.LocalizableObject;
 import com.anna.sent.soft.childbirthdate.age.SettingsParser;
+import com.anna.sent.soft.childbirthdate.pro.R;
 import com.anna.sent.soft.childbirthdate.sicklist.SickListConstants;
 import com.anna.sent.soft.settings.SettingsLanguage;
 import com.anna.sent.soft.settings.SettingsTheme;

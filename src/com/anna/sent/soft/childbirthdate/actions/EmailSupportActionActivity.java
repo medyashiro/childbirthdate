@@ -1,6 +1,6 @@
 package com.anna.sent.soft.childbirthdate.actions;
 
-import com.anna.sent.soft.childbirthdate.R;
+import com.anna.sent.soft.childbirthdate.pro.R;
 
 public class EmailSupportActionActivity extends EmailActionActivity {
 	@Override

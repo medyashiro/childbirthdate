@@ -9,6 +9,7 @@ import com.anna.sent.soft.childbirthdate.adapters.TabsAdapter;
 import com.anna.sent.soft.childbirthdate.base.ChildActivity;
 import com.anna.sent.soft.childbirthdate.fragments.ResultEcdFragment;
 import com.anna.sent.soft.childbirthdate.fragments.ResultSickListFragment;
+import com.anna.sent.soft.childbirthdate.pro.R;
 import com.anna.sent.soft.childbirthdate.strategy.menu.MenuStrategy;
 
 public class ResultsActivity extends ChildActivity implements

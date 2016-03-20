@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-    <string name="google_app_name">Pregnancy Calculator</string>
+    <string name="google_app_name">Pregnancy Calculator AdFree</string>
     <string name="yandex_app_name">Pregnancy Calculator</string>
     <string name="google_marketing_message">Calculation of estimated due date and gestational age by different methods</string>
     <string name="description">

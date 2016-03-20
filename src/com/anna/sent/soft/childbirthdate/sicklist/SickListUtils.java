@@ -6,11 +6,11 @@ import android.content.Context;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.anna.sent.soft.childbirthdate.R;
 import com.anna.sent.soft.childbirthdate.age.Age;
 import com.anna.sent.soft.childbirthdate.age.Days;
 import com.anna.sent.soft.childbirthdate.age.LocalizableObject;
 import com.anna.sent.soft.childbirthdate.pregnancy.PregnancyCalculator;
+import com.anna.sent.soft.childbirthdate.pro.R;
 import com.anna.sent.soft.numberpickerlibrary.NumberPicker;
 
 public class SickListUtils {

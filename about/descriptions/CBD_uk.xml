@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-    <string name="google_app_name">Дата пологів</string>
+    <string name="google_app_name">Дата пологів (без реклами)</string>
     <string name="yandex_app_name">Калькулятор вагітності</string>
     <string name="google_marketing_message">Розрахунок дати пологів, терміну вагітності різними методами</string>
     <string name="description">

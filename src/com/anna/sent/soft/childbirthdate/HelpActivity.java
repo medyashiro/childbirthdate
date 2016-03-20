@@ -5,6 +5,7 @@ import android.support.v4.view.ViewPager;
 
 import com.anna.sent.soft.childbirthdate.adapters.HelpPagerAdapter;
 import com.anna.sent.soft.childbirthdate.base.ChildActivity;
+import com.anna.sent.soft.childbirthdate.pro.R;
 
 public class HelpActivity extends ChildActivity {
 	private ViewPager mViewPager;

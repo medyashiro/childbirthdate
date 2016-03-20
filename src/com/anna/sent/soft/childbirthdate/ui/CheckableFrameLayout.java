@@ -6,7 +6,7 @@ import android.util.AttributeSet;
 import android.widget.Checkable;
 import android.widget.FrameLayout;
 
-import com.anna.sent.soft.childbirthdate.R;
+import com.anna.sent.soft.childbirthdate.pro.R;
 
 public class CheckableFrameLayout extends FrameLayout implements Checkable {
 	private boolean mChecked;

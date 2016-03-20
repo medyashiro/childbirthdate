@@ -4,8 +4,8 @@ import java.util.Calendar;
 
 import android.content.Context;
 
-import com.anna.sent.soft.childbirthdate.R;
 import com.anna.sent.soft.childbirthdate.age.Age;
+import com.anna.sent.soft.childbirthdate.pro.R;
 
 public abstract class Pregnancy {
 	public static final int FIRST_TRIMESTER = 1;

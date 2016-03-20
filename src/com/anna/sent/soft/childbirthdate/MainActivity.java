@@ -7,6 +7,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 
 import com.anna.sent.soft.childbirthdate.base.DataKeeperActivity;
+import com.anna.sent.soft.childbirthdate.pro.R;
 import com.anna.sent.soft.childbirthdate.shared.Settings;
 import com.anna.sent.soft.childbirthdate.strategy.menu.MenuStrategy;
 import com.anna.sent.soft.childbirthdate.widget.MyPregnancyWidget;

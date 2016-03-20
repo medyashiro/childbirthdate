@@ -13,8 +13,8 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.anna.sent.soft.childbirthdate.R;
 import com.anna.sent.soft.childbirthdate.age.LocalizableObject;
+import com.anna.sent.soft.childbirthdate.pro.R;
 
 public class MoveableItemsArrayAdapter extends ArrayAdapter<String> implements
 		OnClickListener {

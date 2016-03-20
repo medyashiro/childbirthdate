@@ -10,10 +10,10 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.anna.sent.soft.childbirthdate.R;
 import com.anna.sent.soft.childbirthdate.ResultsActivity;
 import com.anna.sent.soft.childbirthdate.data.Data;
 import com.anna.sent.soft.childbirthdate.data.DataClient;
+import com.anna.sent.soft.childbirthdate.pro.R;
 
 public class TitlesHeaderFragment extends Fragment implements DataClient,
 		OnClickListener {

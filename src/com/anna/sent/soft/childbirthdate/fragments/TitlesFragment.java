@@ -13,10 +13,10 @@ import android.view.ViewGroup;
 import android.widget.ListView;
 
 import com.anna.sent.soft.childbirthdate.DetailsActivity;
-import com.anna.sent.soft.childbirthdate.R;
 import com.anna.sent.soft.childbirthdate.adapters.ListItemArrayAdapter;
 import com.anna.sent.soft.childbirthdate.data.Data;
 import com.anna.sent.soft.childbirthdate.data.DataClient;
+import com.anna.sent.soft.childbirthdate.pro.R;
 import com.anna.sent.soft.childbirthdate.shared.Shared;
 import com.anna.sent.soft.strategy.statesaver.StateSaver;
 

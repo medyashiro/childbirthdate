@@ -1,6 +1,6 @@
 package com.anna.sent.soft.childbirthdate.base;
 
-import com.anna.sent.soft.childbirthdate.R;
+import com.anna.sent.soft.childbirthdate.pro.R;
 import com.anna.sent.soft.childbirthdate.shared.Settings;
 import com.anna.sent.soft.strategy.statesaver.StateSaverBaseActivity;
 import com.anna.sent.soft.utils.LanguageUtils;

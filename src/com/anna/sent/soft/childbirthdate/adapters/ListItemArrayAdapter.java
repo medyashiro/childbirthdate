@@ -11,7 +11,7 @@ import android.widget.ArrayAdapter;
 import android.widget.CheckBox;
 import android.widget.TextView;
 
-import com.anna.sent.soft.childbirthdate.R;
+import com.anna.sent.soft.childbirthdate.pro.R;
 
 public class ListItemArrayAdapter extends ArrayAdapter<String> implements
 		OnClickListener {

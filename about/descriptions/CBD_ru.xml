@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-    <string name="google_app_name">Дата родов</string>
+    <string name="google_app_name">Дата родов (без рекламы)</string>
     <string name="yandex_app_name">Калькулятор беременности</string>
     <string name="google_marketing_message">Расчет даты родов, срока беременности разными методами</string>
     <string name="description">

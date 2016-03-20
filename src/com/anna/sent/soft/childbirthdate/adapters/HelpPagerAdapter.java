@@ -4,8 +4,8 @@ import android.content.Context;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 
-import com.anna.sent.soft.childbirthdate.R;
 import com.anna.sent.soft.childbirthdate.fragments.TabHelpFragmentFactory;
+import com.anna.sent.soft.childbirthdate.pro.R;
 
 public class HelpPagerAdapter extends TitlesPagerAdapter {
 	public HelpPagerAdapter(Context context, FragmentManager fm) {

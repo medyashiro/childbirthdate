@@ -9,6 +9,7 @@ import android.support.v4.view.ViewPager;
 
 import com.anna.sent.soft.childbirthdate.adapters.DetailsPagerAdapter;
 import com.anna.sent.soft.childbirthdate.base.ChildActivity;
+import com.anna.sent.soft.childbirthdate.pro.R;
 import com.anna.sent.soft.childbirthdate.shared.Shared;
 
 public class DetailsActivity extends ChildActivity implements

@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 import android.content.Context;
 
-import com.anna.sent.soft.childbirthdate.R;
+import com.anna.sent.soft.childbirthdate.pro.R;
 
 public class Days implements ISetting, Serializable {
 	private static final long serialVersionUID = -2116357134482613794L;

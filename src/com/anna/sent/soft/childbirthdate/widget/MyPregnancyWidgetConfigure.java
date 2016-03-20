@@ -17,8 +17,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.anna.sent.soft.childbirthdate.MainActivity;
-import com.anna.sent.soft.childbirthdate.R;
 import com.anna.sent.soft.childbirthdate.data.DataImpl;
+import com.anna.sent.soft.childbirthdate.pro.R;
 import com.anna.sent.soft.childbirthdate.shared.Settings;
 import com.anna.sent.soft.childbirthdate.shared.Shared;
 import com.anna.sent.soft.utils.LanguageUtils;
