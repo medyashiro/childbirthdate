@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1088910238573",
+    "firebase_url": "https://fir-pregnancy-calculator.firebaseio.com",
+    "project_id": "firebase-pregnancy-calculator",
+    "storage_bucket": "firebase-pregnancy-calculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088910238573:android:b8fecc718798e98e",
+        "android_client_info": {
+          "package_name": "com.anna.sent.soft.childbirthdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088910238573-5ki75k3ma3i34v5bbtearur9govblkje.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1088910238573-9q479ohkje19j6slu4m73v4mjbm85bsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz-hpc4Y12zRBgzk1pSsxxj4AYFvZjZWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
