@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1088910238573-15oavct0qvttfon7ped5th2ha12klpr4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anna.sent.soft.childbirthdate",
+            "certificate_hash": "8023114DBEDA0EA1549CE0ACDCFB648C0888B51C"
+          }
+        },
+        {
           "client_id": "1088910238573-5ki75k3ma3i34v5bbtearur9govblkje.apps.googleusercontent.com",
           "client_type": 3
         },
